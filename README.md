@@ -144,37 +144,23 @@ Below are screenshots showcasing the different pages and features of the website
 > *The landing page that provides an introduction to the platform.*
 
 ### Easy Translate Page
-![Login Page]()
+![Login Page](https://github.com/thiruXcmd/Translate-Titans/blob/main/WhatsApp%20Image%202025-03-26%20at%204.11.49%20PM%20(1).jpeg?raw=true)
 
-> *Users can log in to access their personalized library and settings.*
+![Book Reader](https://github.com/thiruXcmd/Translate-Titans/blob/main/WhatsApp%20Image%202025-03-26%20at%205.22.38%20PM.jpeg?raw=true)
+
+> *Users can translate the english to multilingual indian regional languages.*
 
 ### File
-![Dashboard]()
+![Dashboard](https://github.com/thiruXcmd/Translate-Titans/blob/main/WhatsApp%20Image%202025-03-26%20at%204.11.49%20PM%20(3).jpeg?raw=true)
 
-> *A user-friendly interface displaying available books and recent activity.*
+> *A user-friendly interface displaying file upload for text translation.*
 
 ### About
-![Book Reader]()
+![Book Reader](https://github.com/thiruXcmd/Translate-Titans/blob/main/WhatsApp%20Image%202025-03-26%20at%204.11.49%20PM%20(4).jpeg?raw=true)
 
-> *An accessible book reader with text-to-text and font customization.*
+> *An aboout about the team members of the project .*
 
-## Installation & Usage
-### Clone the Repository:
-```sh
-git clone https://github.com/yourusername/ablind-book.git
-```
-### Navigate to the Project Folder:
-```sh
-cd ./Translate_Titans_Project/translate
-```
-### Install Dependencies:
-```sh
-npm install  # or pip install -r requirements.txt (for Python backend)
-```
-### Run the Application:
-```sh
-npm start  # or python backend.py
-```
+---
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
