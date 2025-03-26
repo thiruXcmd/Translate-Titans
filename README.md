@@ -28,7 +28,7 @@ We will train our AI model using **high-quality datasets** such as:
 
 These datasets ensure that our translations are as **accurate and natural as possible**.  
 
-### **Step 2: Data Preprocessing 🛠**  
+### **Step 2: Data Preprocessing **  
 Before training the model, we clean and prepare the data:  
  **Text Cleaning** – Remove unwanted symbols and characters.  
  **Tokenization** – Break text into words for better translation.  
@@ -68,6 +68,67 @@ This means you can **seamlessly integrate translations** into any application, h
 
 ---
 
+# Translate Titans Project Setup Guide
+
+## Prerequisites
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org/en/download)
+- Python (Download from the official site)
+
+## Installation Steps
+
+### Step 1: Download and Extract the Project
+1. Download the zip file.
+2. Extract the file.
+
+### Step 2: Open the Project
+- Open the extracted folder in **VS Code**.
+
+### Step 3: Install Node.js
+- Download and install **Node.js** from [here](https://nodejs.org/en/download).
+- Verify installation:
+  ```sh
+  node --version
+  ```
+
+### Step 4: Install Python and Required Packages
+- Install Python from its official site.
+- Open Command Prompt and install the required Python packages:
+  ```sh
+  pip install flask
+  pip install flask_cors
+  pip install deep_translator
+  ```
+
+### Step 5: Run the Backend
+- Navigate to the backend folder:
+  ```sh
+  cd ./translate_Titans_project/translator/backend
+  ```
+- Run the backend server:
+  ```sh
+  python backend.py
+  ```
+
+### Step 6: Start the Frontend
+- Navigate to the translator folder:
+  ```sh
+  cd ./translate_Titans_project/translator
+  ```
+- Start the frontend:
+  ```sh
+  npm run dev
+  ```
+
+### Step 7: Access the Application
+1. Copy the address: [eg: `localhost:5173/`]
+2. Paste it into your browser and hit **Enter**.
+
+---
+
+Your project should now be running successfully! 
+
+
 # Website Screenshots
 
 ## Overview
@@ -77,25 +138,25 @@ Translator Website is a web-based platform designed to provide an accessible eng
 Below are screenshots showcasing the different pages and features of the website:
 
 ### Home Page
-![Home Page](sample picture)
+![Home Page]()
 
 
 > *The landing page that provides an introduction to the platform.*
 
-### Login Page
-![Login Page](images/login.png)
+### Easy Translate Page
+![Login Page]()
 
 > *Users can log in to access their personalized library and settings.*
 
-### Dashboard
-![Dashboard](images/dashboard.png)
+### File
+![Dashboard]()
 
 > *A user-friendly interface displaying available books and recent activity.*
 
-### Book Reader Interface
-![Book Reader](images/bookreader.png)
+### About
+![Book Reader]()
 
-> *An accessible book reader with text-to-speech and font customization.*
+> *An accessible book reader with text-to-text and font customization.*
 
 ## Installation & Usage
 ### Clone the Repository:
