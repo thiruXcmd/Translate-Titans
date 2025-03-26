@@ -138,7 +138,7 @@ Translator Website is a web-based platform designed to provide an accessible eng
 Below are screenshots showcasing the different pages and features of the website:
 
 ### Home Page
-![Home Page]()
+![Home Page](https://github.com/thiruXcmd/Translate-Titans/blob/main/WhatsApp%20Image%202025-03-26%20at%204.11.49%20PM.jpeg?raw=true)
 
 
 > *The landing page that provides an introduction to the platform.*
